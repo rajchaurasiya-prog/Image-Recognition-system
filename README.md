@@ -84,11 +84,12 @@ The main objective of this system is to enable quick and accurate recognition of
 * **API Integration** for third-party apps and services.
 * **Augmented Reality (AR) Integration** for interactive object recognition.
 
-Output:
-<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/e798d9ce-8f75-4152-8e69-1893db4eb9ad" />
-
 ### **7. Outcome**
 
 The result is a **production-ready, AI-driven web application** capable of delivering real-time, accurate object recognition. Its modular design ensures adaptability for new features, while its accessible interface makes it a valuable tool for professionals, educators, and hobbyists alike.
+
+Output:
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/e798d9ce-8f75-4152-8e69-1893db4eb9ad" />
+
 
 o
