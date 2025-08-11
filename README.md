@@ -88,5 +88,4 @@ The main objective of this system is to enable quick and accurate recognition of
 
 The result is a **production-ready, AI-driven web application** capable of delivering real-time, accurate object recognition. Its modular design ensures adaptability for new features, while its accessible interface makes it a valuable tool for professionals, educators, and hobbyists alike.
 
-
-Do you want me to prepare that diagram?
+o
